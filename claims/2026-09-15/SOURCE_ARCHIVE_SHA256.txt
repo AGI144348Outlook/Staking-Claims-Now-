@@ -1,0 +1,7 @@
+SOURCE ARCHIVE SHA-256
+73c9d3c7505793ec8ce0b4476a6d4ae613f96f3ac0c6c9db9bd26f30e5e59446
+
+Archive: mashet-echo-governor-github.zip
+Supplied: 2026-09-15 (UTC-05:00)
+
+The archive is retained locally as the source artifact corresponding to the ECHO inference milestone provenance commit. The SHA-256 above is the content fingerprint of that exact ZIP file.
